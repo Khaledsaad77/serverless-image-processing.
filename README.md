@@ -8,7 +8,7 @@ The Lambda function resizes the image (or applies transformations like watermark
 ---
 
 ## 🏗️ Architecture
-![Architecture Diagram](architecture.png)
+![Architecture Diagram](Architecture.png)
 
 **Workflow:**
 1. User uploads an image to the **Input S3 Bucket**.
